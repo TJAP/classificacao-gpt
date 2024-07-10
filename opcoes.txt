@@ -1,0 +1,47 @@
+146	Abrigo em entidade
+147	Abrigo temporário
+368	Acolhimento em família acolhedora
+160	Acolhimento institucional
+259	Acompanhamento psicossocial do agressor, por meio de atendimento individual e/ou em grupo de apoio art. 22, VII
+128	Afastamento do lar ou domicílio
+162	Colocação em família substituta
+258	Comparecimento do agressor a programas de recuperação e reeducação art. 22, VI
+136	Determinação da recondução da ofendida e de seus dependentes ao respectivo domicílio, após o afastamento do agressor
+137	Determinação do afastamento da ofendida do lar; sem prejuízo dos direitos relativos a bens; guarda dos filhos e alimentos art. 23; III
+150	Determinar a matrícula dos dependentes da ofendida em instituição básica mais próxima do seu domicílio; ou a transferência deles para essa instituição; independentemente da existência de vaga art. 23; V
+265	Determinar a separação de corpos art. 23, IV
+139	Encaminhamento a curador, mediante termo de responsabilidade
+138	Encaminhamento à família, mediante termo de responsabilidade
+149	Encaminhamento ao responsável, mediante termo de responsabilidade
+148	Encaminhamento aos pais, mediante termo de responsabilidade
+135	Encaminhamento da ofendida e seus dependentes a programa oficial ou comunitário de proteção ou de atendimento
+161	Inclusão em programa de acolhimento familiar
+158	Inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a alcóolatras
+159	Inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a toxicômanos
+144	Inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a usuários de drogas lícitas ou ilícitas ao próprio idoso
+145	Inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a usuários de drogas lícitas ou ilícitas à pessoa de sua convivência que lhe cause perturbação
+151	Inclusão em serviços e programas oficiais ou comunitários de proteção, apoio e promoção da família, da criança e do adolescente
+140	Oreintação, apoio e acompanhamento temporários
+257	outras medidas protetivas de urgência art. 22, § 1º - LMP
+134	Prestação de alimentos provisionais ou provisórios
+264	Prestação de caução provisória, mediante depósito judicial, por perdas e danos materiais decorrentes da prática de violência doméstica e familiar contra a ofendida art. 24, IV.
+129	Proibição de aproximação da ofendida, de seus familiares e das testemunhas
+132	Proibição de condutas quaisquer, não especificadas pela Lei
+130	Proibição de contato com a ofendida, seus familiares e testemunhas por qualquer meio de comunicação
+131	Proibição de frequentação de determinados lugares
+269	Proibição temporária para a celebração de atos e contratos de compra, venda e locação de propriedade comum, salvo expressa autorização judicial art. 24, II
+255	reabilitação do agressor art. 35, V - LMP
+157	Requisção de tratamento psiquiátrico em regime hospitalar
+143	Requisção para tratamento de sua saúde, em regime domiciliar
+152	Requisição de tratamento médico, em regime ambulatorial
+153	Requisição de tratamento médico, em regime hospitalar
+154	Requisição de tratamento psicológico, em regime ambulatorial
+155	Requisição de tratamento psicológico, em regime hospitalar
+156	Requisição de tratamento psiquiátrico, em regime ambulatorial
+141	Requisição para tratamento de sua saúde, em regime ambulatorial
+142	Requisição para tratamento de sua saúde, em regime hospitalar
+261	Restituição de bens indevidamente subtraídos pelo agressor à ofendida art. 24, I
+133	Restrição ou suspensão de visitas aos dependentes menores
+127	Suspensão da posse ou restrição do porte de armas
+263	Suspensão de procurações conferidas pela ofendida ao agressor art. 24, III
+256	utilização de monitoramento eletrônico ou outros dispositivos art. 9º, § 5º - LMP
